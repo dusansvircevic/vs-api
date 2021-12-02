@@ -1,0 +1,7 @@
+{
+    "baseUrl" : "https://cypress.vivifyscrum-stage.com",
+    "env": {
+        "publicUrl" : "https://cypress-api.vivifyscrum-stage.com",
+        "apiUrl" : "https://cypress-api.vivifyscrum-stage.com/api/v2"
+    }  
+} 
